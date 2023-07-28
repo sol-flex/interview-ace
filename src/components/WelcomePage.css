@@ -1,0 +1,31 @@
+.main-chat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow:1;
+    margin: 0;
+    margin-top:50px;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1, h2, p {
+    margin: 0;
+  }
+  
+  textarea {
+    width: 50%;
+    height: 100px;
+    resize: none;
+    margin-bottom: 10px;
+    flex-grow:1;
+  }
+  
+  #prepare-interview {
+    padding: 10px 20px;
+    width: 50%;
+    margin-left:0px;
+    margin-top: 20px;
+  }
